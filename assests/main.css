@@ -1,0 +1,63 @@
+.topic-name {
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 2.25rem;
+    font-weight: 600;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.subtitle {
+    margin-top: 15px;
+}
+
+.questions {
+    padding-left: 24rem;
+    padding-right: 20rem;
+    background-color: #F8FAFC;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.question {
+    padding-top: 25px;
+}
+
+.answer-text {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.steps {
+    margin-left: 25px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.link {
+    color: #4E80EE;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.separation-line {
+    background-color: #D2D5DA;
+    padding-bottom: 1px;
+}
+
+.rule {
+    font-weight: bold;
+}
+
+.meaning {
+    font-weight: 400;
+}
