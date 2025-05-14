@@ -61,3 +61,17 @@ li {
 .meaning {
     font-weight: 400;
 }
+
+@media screen and (max-width: 1025px) {
+    .questions {
+        padding-left: 12rem;
+        padding-right: 10rem;
+    }
+}
+
+@media screen and (max-width: 641px) {
+    .questions {
+        padding-left: 2rem;
+        padding-right: 1.5rem;
+    }
+}
